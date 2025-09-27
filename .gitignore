@@ -1,0 +1,4 @@
+*.tflite
+*.venv
+
+venv/*
